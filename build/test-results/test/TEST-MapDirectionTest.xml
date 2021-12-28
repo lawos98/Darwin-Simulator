@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MapDirectionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-12-28T20:17:08" hostname="DESKTOP-AASDMDC" time="0.041">
+  <properties/>
+  <testcase name="test_toVectors" classname="MapDirectionTest" time="0.041"/>
+  <testcase name="test_next" classname="MapDirectionTest" time="0.0"/>
+  <testcase name="test_previous" classname="MapDirectionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

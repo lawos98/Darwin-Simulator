@@ -1,0 +1,1 @@
+class GenoType(val string: String, val number:Int)

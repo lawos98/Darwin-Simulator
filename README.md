@@ -11,7 +11,7 @@ The programme is designed to simulate the life of animals in a certain environme
 
 - Kotlin
 
--Gradle
+- Gradle
 
 
 ## Features

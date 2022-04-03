@@ -13,6 +13,10 @@ The programme is designed to simulate the life of animals in a certain environme
 
 - Gradle
 
+<p align="center">
+<img height="60" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
+<img height="60" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png" />
+</p>
 
 ## Features
 

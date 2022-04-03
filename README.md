@@ -1,4 +1,4 @@
-<h1 align="center">Darwin Simulator</h1>
+<img width="100%" src="images/baner.gif">
 
 
 ## Description
